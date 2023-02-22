@@ -1,0 +1,11 @@
+Lab4A1 - Write three functions to create a triangle, ellipse, and any other shape you choose. 
+  Ensure that you have defined the function so that you can provide sufficient parameters
+  https://editor.p5js.org/kevin.bretthauer/sketches/SQnfV_A_o
+  
+Lab4A2 - Modify the previous function to include fill and include parameters for RGB value in the function 
+  i.e. I can choose which color I want to filled with the function
+  https://editor.p5js.org/kevin.bretthauer/sketches/3aFnt1TxY
+  
+Lab4A3 - Write a function that draws a sprite of your choice. Ensure it has sufficient parameters to modify the position, size, and the color. 
+  Also Include an if-else statement in the function so that when the mouse is pressed the sprite becomes a second sprite of your choice.
+  https://editor.p5js.org/kevin.bretthauer/sketches/ZCip6ryrh
